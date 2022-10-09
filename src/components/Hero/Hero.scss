@@ -1,0 +1,12 @@
+.hero {
+    background: black; 
+    
+    .hero__image {
+        background-image: url('../../../public/assets/betelgeues.gif');
+        height: 35vh;
+        background-position: center;
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+
+}

@@ -1,0 +1,31 @@
+ html {
+    scroll-behavior: smooth;
+ }
+
+ .section-title {
+   font-size: 30px;
+   margin: 10px 0; 
+   padding: 0 10px;
+ }
+
+ .subsection-container {
+   display: flex; 
+   /* justify-content: center;    */
+   padding: 10px 0; 
+ }
+
+ .subsection-copy {
+   padding: 0 10px;
+ }
+
+ .subsection-title {
+   font-size: 25px;
+   margin: 10px 0; 
+   padding: 0 10px;
+ }
+
+ .subsection-image {
+  height: 100%;
+ }
+
+ 
