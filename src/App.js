@@ -1,5 +1,5 @@
 import './reset.css';
-import './App.scss';
+import './App.css';
 import {BrowserRouter, Routes, Route} from 'react-router-dom';
 import Navbar from './components/Navbar/Navbar.jsx';
 import Stars from './pages/Stars/Stars.jsx';
