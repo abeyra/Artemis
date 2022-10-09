@@ -5,7 +5,7 @@ import Cataclysmic from '../../components/Cataclysmic/Cataclysmic';
 import Cepheids from '../../components/Cepheids/Cepheids';
 import LightCurves from '../../components/LightCurves/LightCurves';
 
-const HomePage = () => {
+const Stars = () => {
   return (
     <>
     <Hero />
@@ -16,4 +16,4 @@ const HomePage = () => {
   )
 }
 
-export default HomePage
+export default Stars
