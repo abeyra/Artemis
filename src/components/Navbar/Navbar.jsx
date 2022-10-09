@@ -1,6 +1,5 @@
 import React from 'react';
 import './Navbar.scss';
-// import { NavLink } from 'react-router-dom';
 import { AppBar, Toolbar, IconButton, Typography, Stack, Button, Link } from '@mui/material';
 import RocketIcon from '@mui/icons-material/Rocket';
 
@@ -14,10 +13,10 @@ const Navbar = () => {
              </Link>               
             </IconButton>
             <Typography variant="h6" component="div" sx={{flexGrow: 1}}>
-              Space App
+              Artemis
             </Typography>
             <Stack direction="row" spacing={2}>
-                <Button color="inherit" href="/stars">Learning with Nasa</Button>
+                <Button color="inherit" href="/stars">Learn with Nasa</Button>
                 <Button color="inherit" href="#cataclysmic">Cataclysmic Variables</Button>
                 <Button color="inherit" href="#cepheids">Cepheids</Button>
                 <Button color="inherit" href="#lightcurves">Light Curves</Button>

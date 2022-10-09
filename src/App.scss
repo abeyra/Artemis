@@ -1,11 +1,15 @@
+ @use './partials/fonts' as *;
+
  html {
     scroll-behavior: smooth;
+    font-family: 'DM Sans', sans-serif;
  }
 
  .section-title {
    font-size: 30px;
    margin: 10px 0; 
    padding: 0 10px;
+   font-weight: 500;
  }
 
  .subsection-container {
