@@ -4,7 +4,7 @@
 
 "Artemis" is a Web application built during NASA's Hackathon. This web application provides a 3d rendering of Earth and the universe on the homepage and teaches users about different star systems using resources and information provided directly from NASA.
 
-Site can be accessed at nasalearnstarsystems.co
+Site can be accessed at http://nasalearnstarsystems.co/
 
 ## Features 
 
